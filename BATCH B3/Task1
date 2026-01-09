@@ -1,0 +1,1 @@
+Generate a Sinewave x(t)=5 cos(wt+90), where f=50Hz. Sample the signal at fs1=100Hz, fs2=150Hz, fs3=200Hz and fs4=1000Hz.
